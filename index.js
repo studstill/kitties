@@ -1,1 +1,3 @@
-module.exports = function() {console.log('You got kitties'};
+module.exports = function() {
+  console.log('You got kitties');
+};

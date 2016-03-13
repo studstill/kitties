@@ -1,0 +1,22 @@
+{
+  "name": "npm-kitties",
+  "version": "0.1.0",
+  "description": "Randomly Insert Kitties into your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studstill/kitties.git"
+  },
+  "keywords": [
+    "kitties"
+  ],
+  "author": "Jason Studstill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studstill/kitties/issues"
+  },
+  "homepage": "https://github.com/studstill/kitties#readme"
+}
